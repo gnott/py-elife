@@ -2,7 +2,7 @@ from distutils.core import setup
 
 import pyelife
 
-with open('README.md') as fp:
+with open('README.rst') as fp:
     readme = fp.read()
 
 with open('LICENSE') as fp:
