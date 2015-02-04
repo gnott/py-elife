@@ -5,6 +5,6 @@ with open('LICENSE') as fp:
 
 setup(name='pyelife',
       version='0.0.1',
-      py_modules=['pyelife'],
+      packages=['pyelife'],
       license = license
       )
